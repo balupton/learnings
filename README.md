@@ -239,3 +239,32 @@ Lifestyle experiments are measurable, they are much more scientific than lifesty
 Paralysis by analysis. People get caught up in over-thinking things. You just gotta jump.
 
 If you're not looking at things from multiple standpoints, and making changes. Then you're insane.
+
+
+## Timothy Ferris
+1. Define your fears, not your goals.
+1. What could go wrong?
+1. How to minimise the chance of that happening?
+1. How to regain your status if something does go wrong?
+
+
+
+## Asking for Advice
+What is it that I'm wanting to get out of this conversation? What are the questions that will get me those results?
+
+Be Specific. Ask quality questions. Be concise.
+
+Noah Kagan: Be specific, we are busy people. I don't have time for the background.
+
+Duane Alley: Right…. So what specifically are you asking? Don't waste my time with your life story.
+
+Johnnie Cass: The results you get in life, is directly correlated to the quality of questions you ask. Dribble is not a question.
+
+Jason Fried Be concise:  Every word counts, don't waste them.
+
+
+## Motivation
+
+- Fun music makes boring tasks fun.
+- TypoGraphy previews are great for inspiration.
+
