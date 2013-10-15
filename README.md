@@ -237,12 +237,14 @@ I was aiming towards the wrong goal, I had to pivot, and focus on a more correct
 Got a problem, something needs to change, you need to change.
 
 Lifestyle experiment process:
+
 1. Identify: Identify the problem (that is *really* causing you the most drama and pain) before you start working on the solution.
 2. Plan: Identify your exact perfect lifestyle, and work backward from that. How did you get there? What was the step before that? and before that? and before that? and eventually you'll work back to where you are now, so you know the steps to walk to get to your goal.
 3. Rules: Establishing rules & guidelines for the project. Anyone can do lifestyle changes, lifestyle expirements are measurable, they can tell you with data what changes you should make.
 4. Jump: Move forward with things right away, before you're ready. Saying something is not for forever, helps you move forward without fear.
 
 Saving time:
+
 - It could be a new skill you need to learn
 - It could be someone you need to meet
 
@@ -256,6 +258,7 @@ You shouldn't be afraid of experiments, they are by far, the only way things hav
 
 
 ## Timothy Ferris
+
 1. Define your fears, not your goals.
 1. What could go wrong?
 1. How to minimise the chance of that happening?
