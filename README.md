@@ -350,3 +350,17 @@ Ideas:
 - Time shift family dinners; have at least 10 minutes of family time each day
 - If you're sitting on a hard chair, you'll be rigid, soft cushion, you'll be soft
 	- Sit straight, on a hard cushioned chair, sit level
+
+
+
+## [The First 20 Hours - How to Learn Anything: Josh Kaufman at TEDxCSU](http://youtu.be/5MgBikgcWnY)
+
+
+How to learn anything fast
+
+1. Deconstruct the skill; and break it down into smaller and smaller pieces; the more you break apart the skill, the more you can decide which sub-skills will help you the most
+2. Learn enough to self-correct; get 3-5 resources about what you're trying to learn (but don't use them to procrastinate - practice comes first!) use them to learn just enough, so you can self-correct, and self-learn, through practice
+3. Remove practice barriers; remove all distractions that get in the way of you doing work, practice always comes first
+4. Practice at least 20 hours; sticking with it for 20 hours will get you over any initial hurdles, keeping you going on long term
+
+**The major barrier to skill acquisition isn't intellectual... it's emotional**
