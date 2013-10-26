@@ -364,3 +364,8 @@ How to learn anything fast
 4. Practice at least 20 hours; sticking with it for 20 hours will get you over any initial hurdles, keeping you going on long term
 
 **The major barrier to skill acquisition isn't intellectual... it's emotional**
+
+
+## yo yo mama
+
+What is it that you would like to do, but haven't done?
