@@ -368,4 +368,6 @@ How to learn anything fast
 
 ## yo yo mama
 
+What are you doing that is interesting?
+
 What is it that you would like to do, but haven't done?
