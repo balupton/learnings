@@ -1,5 +1,12 @@
 # Misc
 
+## External
+
+- [Quotes](https://workflowy.com/s/JTKhVQ7Svs)
+- [Talks](https://workflowy.com/s/ygU3Xmfe3u)
+- [Life](https://workflowy.com/s/1436cd9c-71bd-7cf2-fc33-f9a6ab4fc169)
+
+
 ## Mine
 
 Instead of thinking “this will fail unless I do these things”, instead think “This will kick ass because I will do these things” - this is essential for maintaining momemtum, as if you are thinking about why it will rock that propels, but if you’re thinking about what you need to do so it doesn’t fail, that is extra weight on your sholders holding you back.
