@@ -6,9 +6,7 @@ I'll give you great content but that answer lies elsewhere.
 We are our emotions. life is emotion. it is all about emotion. always ask what emotion do I need to do the best at this? Your emotion when expressed entirely will be instilled in the audience too.
 
 
----
-
-Rapid Planning Method.
+## [Rapid Planning Method.](https://www.youtube.com/watch?v=hCixDx8bhXE)
 
 Figure out the result before you figure out what to do.
 
@@ -24,9 +22,9 @@ Results focused, purpose driven, culture.
 3. How do you do it?
 
 
-----
+## [TED Talk](https://www.youtube.com/watch?v=Cpc-t-Uwv1I)
 
-Three decisions of destiny
+Three decisions of destiny:
 
 1. What am I going to focus on?
 
@@ -41,8 +39,6 @@ Three decisions of destiny
 3. What are you going to do?
 
 	Are you going to give up or move forward?
-
----
 
 
 People like surprises that they want. Surprises they don't want, they call problems.
